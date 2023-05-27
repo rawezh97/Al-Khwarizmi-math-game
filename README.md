@@ -1,6 +1,6 @@
-# [Game Name]
+# [Al-Khwarizmi-math-game]
 
-Welcome to [Game Name], a math game developed in Assembly 8086.
+Welcome to [Al-Khwarizmi-math-game], a math game developed in Assembly 8086.  
 ![Game Screenshot](game_screenshot.png)
 ## Description
 In this game, you will be given equations to solve, and you have to calculate the numbers that fit the equation. If you answer correctly, you will earn +5 points. However, if your answer is wrong, you will lose 5 points. The game has three different levels with different equations to be solved.
@@ -8,7 +8,7 @@ In this game, you will be given equations to solve, and you have to calculate th
 ## Getting Started
 1. Clone the repository:
 
-2. Open [emulator name] and load the game.
+2. Open [emu8086] and load the game.
 
 ## Instructions
 - Type `-1` to exit the game.
@@ -16,11 +16,10 @@ In this game, you will be given equations to solve, and you have to calculate th
 - Earn points for correct answers and try to reach the highest score.
 
 ## System Requirements
-- [Emulator name] with support for Assembly 8086.
-- [Additional system requirements, if any]
+- [emu8086] with support for Assembly 8086.
 
 ## Contributing
-Contributions are welcome! If you would like to contribute to [Game Name], please follow these steps:
+Contributions are welcome! If you would like to contribute to [Al-Khwarizmi-math-game], please follow these steps:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Make your changes and commit them.
@@ -28,7 +27,7 @@ Contributions are welcome! If you would like to contribute to [Game Name], pleas
 5. Submit a pull request.
 
 ## Contact
-For any questions, suggestions, or issues, please contact [your email address].
+For any questions, suggestions, or issues, please contact us.
 
 
 ## License
