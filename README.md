@@ -7,3 +7,32 @@ In this game, you will be given equations to solve, and you have to calculate th
 
 ## Getting Started
 1. Clone the repository:
+
+2. Open [emulator name] and load the game.
+
+## Instructions
+- Type `-1` to exit the game.
+- Solve the given equation and enter the values when prompted.
+- Earn points for correct answers and try to reach the highest score.
+
+## System Requirements
+- [Emulator name] with support for Assembly 8086.
+- [Additional system requirements, if any]
+
+## Contributing
+Contributions are welcome! If you would like to contribute to [Game Name], please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Push your changes to your fork.
+5. Submit a pull request.
+
+## License
+[License name, if applicable]
+
+## Acknowledgements
+- [Any acknowledgements or credits]
+
+## Contact
+For any questions or inquiries, please contact [your email address].
+
