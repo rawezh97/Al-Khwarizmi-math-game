@@ -27,6 +27,27 @@ Contributions are welcome! If you would like to contribute to [Game Name], pleas
 4. Push your changes to your fork.
 5. Submit a pull request.
 
+
+
+
+# [Game Name]
+
+![Game Screenshot](game_screenshot.png)
+
+## Description
+[Game Name] is a math game developed in Assembly 8086. The game presents equations that you need to solve by calculating the correct values. Earn points for correct answers and try to achieve the highest score!
+
+## Features
+- Three different levels with varying equations to solve.
+- Interactive gameplay with user input.
+- Score tracking system.
+
+## Getting Started
+Follow these steps to get started with [Game Name]:
+
+1. Clone the repository:
+
+
 ## License
 [License name, if applicable]
 
